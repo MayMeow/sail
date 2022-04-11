@@ -1,0 +1,16 @@
+{
+    "name": "maymeow/sail",
+    "description": "Docker configs",
+    "autoload": {
+        "psr-4": {
+            "Maymeow\\Sail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "May Meow",
+            "email": "may@maymeow.com"
+        }
+    ],
+    "require": {}
+}
